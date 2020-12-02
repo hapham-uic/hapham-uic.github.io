@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  1 DEC 2020 10:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  2 DEC 2020 14:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -396,7 +396,7 @@ xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
 live/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on CV.pdf (2 pages, 62791 bytes).
+Output written on CV.pdf (2 pages, 62788 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  77 compressed objects within 1 object stream
