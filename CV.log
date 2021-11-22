@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  12 FEB 2021 21:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  3 SEP 2021 15:57
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **CV.tex
 (./CV.tex
@@ -369,37 +368,37 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 
 AED: lastpage setting LastPage
-[2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 441.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 441.
+[3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 447.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 447.
  (./CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 441.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 441.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 447.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 447.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: 3B92BA15AA361F8BF169F54080860001;476.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 441.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 447.
  ) 
 Here is how much of TeX's memory you used:
- 6360 strings out of 480608
- 96910 string characters out of 5903631
- 368600 words of memory out of 5000000
+ 6363 strings out of 480608
+ 96928 string characters out of 5903631
+ 369600 words of memory out of 5000000
  22133 multiletter control sequences out of 15000+600000
  554173 words of font info for 39 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 34i,11n,45p,321b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,11n,45p,308b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
 live/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on CV.pdf (2 pages, 63113 bytes).
+Output written on CV.pdf (3 pages, 64180 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
+ 96 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 22 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
